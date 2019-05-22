@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+new to learn about devops and AWS 
+=======
+new to learn 
+>>>>>>> parent of 4bd837b... back
