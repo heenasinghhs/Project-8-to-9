@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sam 1st class for devops
+=======
+heena 1st class for devops
+>>>>>>> 6d0f85c2e387f228c451dec2cc2c65a099fa5c94
+
+
