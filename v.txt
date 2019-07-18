@@ -1,5 +1,8 @@
 i am gud v1
+<<<<<<< HEAD
 
 i am bad v2
 
 i am learning v3
+=======
+>>>>>>> parent of ad802e0... version2
