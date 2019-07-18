@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a i 2 am v v1 bc
+=======
+i am v1
+>>>>>>> parent of dd4096e... v2
