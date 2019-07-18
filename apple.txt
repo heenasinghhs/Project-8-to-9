@@ -1,0 +1,7 @@
+local 
+<<<<<<< HEAD
+central command
+=======
+central
+right
+>>>>>>> origin/master
